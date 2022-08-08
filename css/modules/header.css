@@ -1,0 +1,43 @@
+.header{
+  padding-top: 0;
+  padding-bottom: 87px;
+}
+.header__container{
+  display: flex;
+  align-items: center;
+}
+.header__logo{
+  margin-right: 89.13px;
+}
+
+.header__nav{
+  margin-right: 34.76px;
+}
+
+.header__nav-list{
+  display: flex;
+  align-items: center;
+}
+
+.header__nav-item{
+ margin-right: 27px;
+}
+
+.header__nav-item:last-child{
+  margin-right: 0;
+ }
+
+.header__nav-link{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px; 
+  color: #533738;
+  letter-spacing: 1.3px;
+ }
+
+ .header__link-tel{
+  font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #533738;
+ }
