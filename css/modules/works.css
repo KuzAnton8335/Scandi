@@ -1,0 +1,35 @@
+.works{
+  margin-top: 65px;
+}
+.works__title{
+  margin-bottom: 40px;
+}
+
+.works-grid{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -23px;
+  margin-right: -15px;
+}
+
+.works-grid__block{
+  padding-left: 20px;
+  padding-bottom: 25px;
+}
+
+.works-btn{
+border:none;
+outline:none;
+background-color: #EFE6E4;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+color: #533738;
+margin-top: 11px;
+margin-left: 452px;
+}
+
+.works-btn svg{
+  padding-left: 10px;
+}

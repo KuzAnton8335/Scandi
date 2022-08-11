@@ -1,0 +1,33 @@
+.footer {
+  margin-top: 37px;
+  margin-bottom: 37px;
+}
+
+.footer__container {
+  display: flex;
+  align-items: center;
+}
+
+.footer-tel__link {
+  padding-right: 42px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #533738;
+}
+
+.footer-address {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #533738;
+  padding-right: 367px;
+}
+
+.footer-name {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #533738;
+}

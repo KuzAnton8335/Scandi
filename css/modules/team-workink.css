@@ -1,0 +1,46 @@
+.team-workink {
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: #e2c4ba;
+  padding-top: 62px;
+  padding-bottom: 80px;
+}
+
+.team-workink__title {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.team-workink__list {
+  display: flex;
+}
+
+.team-workink__block {
+  max-width: 285px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.team-workink__number {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  padding: 20px 25px;
+  text-align: center;
+  background-color: #8d7370;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.team-workink__descr {
+  padding-top: 20px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #533738;
+}

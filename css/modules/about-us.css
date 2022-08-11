@@ -1,7 +1,81 @@
 .about-us{
   margin-top: 65px;
 }
+
+.about-us__container{
+  margin-bottom: 21px;
+}
 .about-us__title{
   text-align: center;
   margin-bottom: 40px;
+}
+
+.about-us__block{
+  max-width: 1036px;
+  display: flex;
+  margin-left: 83px;
+}
+
+.about-us__block-text{
+  max-width: 528px;
+  margin-left: 63.46px;
+}
+
+.about-us__descr{
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #533738;
+padding-bottom: 30px;
+}
+
+.about-us__descr-1{
+  max-width: 465px;
+}
+
+.about-us__descr-2{
+  max-width:460px;
+}
+.about-us__descr:last-child{
+  padding-bottom: 0;
+}
+
+.about-us__project{
+  background-color: #8D7370;
+  max-width: 1400px;
+  min-height: 273px;
+  margin: 0 auto;
+}
+
+.about-us__project-list{
+  padding-top: 85px;
+  padding-left: 182px;
+  display: flex;
+  align-items: center;
+}
+
+.about-us__project-item{
+  padding-right: 269px;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us__number{
+  text-align: center;
+  font-weight: 400;
+font-size: 50px;
+line-height: 62px;
+color: #FFFFFF;
+}
+
+.about-us__text{
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.about-us__project-item:last-child{
+  padding-right: 0;
 }
